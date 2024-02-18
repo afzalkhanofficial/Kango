@@ -4,7 +4,7 @@
 - Kango is a basic frontend project crafted with HTML, CSS, and JavaScript.
 
 ## Site Visit Link
-- [Visit TODDLER](https://afzalkhan7.github.io/Kango/)
+- [Visit KANGO](https://afzalkhan7.github.io/Kango/)
 
 ## Features
 
